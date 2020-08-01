@@ -9,6 +9,7 @@ https://www.python.org/downloads/windows/
 
 ## 安裝 python
 
+![image](assets/2-install-python.png)
 
 ## 進入shell
 開始 > windows power shell > power shell
