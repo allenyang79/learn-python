@@ -17,7 +17,7 @@ https://www.python.org/downloads/windows/
 ## 安裝jupyter-notebook
 
 ```
-pip install jupyter-notebook
+pip install jupyter
 ```
 
 ## 啟動
