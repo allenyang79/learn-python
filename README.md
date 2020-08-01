@@ -1,10 +1,26 @@
 # learn-python
 
-## 安裝python
+## 下載 python
 
 https://www.python.org/downloads/windows/
 
 ![image](assets/1-download-python.png)
 
 
-change
+## 安裝 python
+
+
+## 進入shell
+開始 > windows power shell > power shell
+
+## 安裝jupyter-notebook
+
+```
+pip install jupyter-notebook
+```
+
+## 啟動
+
+```
+jupyter-notebook.exe
+```
