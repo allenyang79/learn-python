@@ -1,0 +1,3 @@
+cd ~/Desktop
+
+jupyter-notebook
