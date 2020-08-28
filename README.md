@@ -25,3 +25,11 @@ pip install jupyter
 ```
 jupyter-notebook.exe
 ```
+
+##
+這邊寫成給window執行的bat檔，可以直接開啟已安裝好的jupyter
+
+打開啟，再另存新檔存成 `start-jupyter-notebook.bat`
+
+[download](https://raw.githubusercontent.com/allenyang79/learn-python/master/start-jupyter-notebook.bat)
+
